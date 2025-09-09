@@ -258,7 +258,8 @@ function startStars1() {
 }
 
 const messageElement = document.querySelector('.message');
-const text = 'Happy Birthday em 🌷! Chúc em tuổi mới luôn xinh đẹp, luôn hạnh phúc nè. Anh hy vọng tuổi mới này sẽ mang đến cho em sức mạnh và cơ hội để thực hiện mọi ước mơ mà em hằng ấp ủ he💖';
+// const text = 'Happy Birthday em 🌷! Chúc em tuổi mới luôn xinh đẹp, luôn hạnh phúc nè. Anh hy vọng tuổi mới này sẽ mang đến cho em sức mạnh và cơ hội để thực hiện mọi ước mơ mà em hằng ấp ủ he💖';
+const text = 'As we’re preparing for the next phase of our feed, we’re keen to hear some feedback.Good or bad we want it all. Tell us what you like or dislike or even just your expectations.';
 let index = 0;
 let isTyping = false;
 
